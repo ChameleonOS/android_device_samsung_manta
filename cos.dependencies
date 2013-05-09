@@ -1,0 +1,33 @@
+[
+    {
+      "project": "wizard0f0s",
+      "repository": "android_kernel_samsung_manta",
+      "target_path": "kernel/samsung/manta",
+      "branch": "jellybean-mr1"
+    },
+    {
+      "project": "wizard0f0s",
+      "repository": "android_vendor_samsung_manta",
+      "target_path": "vendor/samsung/manta",
+      "branch": "jellybean-mr1"
+    },
+    {
+      "project": "wizard0f0s",
+      "repository": "android_vendor_audience",
+      "target_path": "vendor/audience",
+      "branch": "jellybean-mr1"
+    },
+    {
+      "project": "wizard0f0s",
+      "repository": "android_vendor_broadcom_manta",
+      "target_path": "vendor/broadcom/manta",
+      "branch": "jellybean-mr1"
+    },
+    {
+      "project": "wizard0f0s",
+      "repository": "android_vendor_widevine_manta",
+      "target_path": "vendor/widevine/manta",
+      "branch": "jellybean-mr1"
+    }
+]
+
