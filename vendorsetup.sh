@@ -14,4 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo cos_manta-userdebug
+add_lunch_combo cos_manta-eng
+
