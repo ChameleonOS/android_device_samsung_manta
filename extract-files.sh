@@ -14,7 +14,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-for FILE in `cat cos-proprietary-blobs.txt | grep -v "^#"`; do
+set -e
+
+for FILE in `cat cm-proprietary-blobs.txt | grep -v "^#"`; do
     # FILE format is src':'dest, so parse it
     DEST=${FILE##*:}
     saveIFS=$IFS

@@ -1,33 +1,33 @@
 [
     {
-      "project": "ChameleonOS",
+      "project": "CyanogenMod",
       "repository": "android_kernel_samsung_manta",
       "target_path": "kernel/samsung/manta",
-      "branch": "jellybean-mr1"
+      "branch": "cm-10.2"
     },
     {
-      "project": "ChameleonOS",
-      "repository": "android_vendor_samsung_manta",
-      "target_path": "vendor/samsung/manta",
-      "branch": "jellybean-mr1"
+      "project": "TheMuppets",
+      "repository": "proprietary_vendor_samsung",
+      "target_path": "vendor/samsung",
+      "branch": "cm-10.2"
     },
     {
-      "project": "ChameleonOS",
-      "repository": "android_vendor_audience",
+      "project": "TheMuppets",
+      "repository": "proprietary_vendor_audience",
       "target_path": "vendor/audience",
-      "branch": "jellybean-mr1"
+      "branch": "cm-10.2"
     },
     {
-      "project": "ChameleonOS",
-      "repository": "android_vendor_broadcom_manta",
-      "target_path": "vendor/broadcom/manta",
-      "branch": "jellybean-mr1"
+      "project": "TheMuppets",
+      "repository": "proprietary_vendor_broadcom",
+      "target_path": "vendor/broadcom",
+      "branch": "cm-10.2"
     },
     {
-      "project": "ChameleonOS",
-      "repository": "android_vendor_widevine_manta",
-      "target_path": "vendor/widevine/manta",
-      "branch": "jellybean-mr1"
+      "project": "TheMuppets",
+      "repository": "proprietary_vendor_widevine",
+      "target_path": "vendor/widevine",
+      "branch": "cm-10.2"
     }
 ]
 
