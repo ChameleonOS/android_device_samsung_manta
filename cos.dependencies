@@ -1,0 +1,33 @@
+[
+    {
+      "project": "CyanogenMod",
+      "repository": "android_kernel_samsung_manta",
+      "target_path": "kernel/samsung/manta",
+      "branch": "cm-11.0"
+    },
+    {
+      "project": "TheMuppets",
+      "repository": "proprietary_vendor_samsung",
+      "target_path": "vendor/samsung",
+      "branch": "cm-11.0"
+    },
+    {
+      "project": "TheMuppets",
+      "repository": "proprietary_vendor_audience",
+      "target_path": "vendor/audience",
+      "branch": "cm-11.0"
+    },
+    {
+      "project": "TheMuppets",
+      "repository": "proprietary_vendor_broadcom",
+      "target_path": "vendor/broadcom",
+      "branch": "cm-11.0"
+    },
+    {
+      "project": "TheMuppets",
+      "repository": "proprietary_vendor_widevine",
+      "target_path": "vendor/widevine",
+      "branch": "cm-11.0"
+    }
+]
+
